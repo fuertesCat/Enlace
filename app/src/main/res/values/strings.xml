@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Enlace</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_latitud">latitud</string>
+    <string name="activar">activar</string>
+    <string name="desactivar">desactivar</string>
+    <string name="ENLACES">ENLACES</string>
+    <string name="title_activity_grabacion">Grabacion</string>
+
+</resources>
